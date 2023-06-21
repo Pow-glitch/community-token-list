@@ -1,0 +1,10 @@
+[
+  {
+    "chainId": 80001,
+    "address": "0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
+    "symbol": "EUSK",
+    "name": "Mintbes Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/EUSK.png"
+  }
+]
