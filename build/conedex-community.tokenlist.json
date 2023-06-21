@@ -1,0 +1,33 @@
+{
+  "name": "ConeDEX Community",
+  "timestamp": "2023-06-21T10:30:52.013Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/logos/venomswap-128x128.png",
+  "keywords": [
+    "conedex",
+    "community"
+  ],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
+      "symbol": "EUSK",
+      "name": "Mintbes Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/EUSK.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
+      "symbol": "EUSK",
+      "name": "Mintbes Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/EUSK.png"
+    }
+  ]
+}
