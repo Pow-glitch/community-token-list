@@ -1,17 +1,13 @@
 {
   "name": "ConeDEX Community",
-  "timestamp": "2023-06-21T10:30:52.013Z",
+  "timestamp": "2023-06-21T17:15:01.305Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 3
   },
   "tags": {},
-<<<<<<< HEAD
   "logoURI": "https://conegecko.com/assets/img/bitcone.png",
-=======
-  "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/logos/venomswap-128x128.png",
->>>>>>> 627e7aae237dcb9889868356e814b8868c81db53
   "keywords": [
     "conedex",
     "community"
@@ -19,7 +15,6 @@
   "tokens": [
     {
       "chainId": 137,
-<<<<<<< HEAD
       "address": "0xbA777aE3a3C91fCD83EF85bfe65410592Bdd0f7c",
       "symbol": "CONE",
       "name": "BitCone",
@@ -33,21 +28,6 @@
       "name": "BitCone",
       "decimals": 18,
       "logoURI": "https://conegecko.com/assets/img/bitcone.png"
-=======
-      "address": "0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
-      "symbol": "EUSK",
-      "name": "Mintbes Token",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/EUSK.png"
-    },
-    {
-      "chainId": 80001,
-      "address": "0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
-      "symbol": "EUSK",
-      "name": "Mintbes Token",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/EUSK.png"
->>>>>>> 627e7aae237dcb9889868356e814b8868c81db53
     }
   ]
 }

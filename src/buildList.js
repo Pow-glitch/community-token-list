@@ -14,11 +14,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-<<<<<<< HEAD
       "https://conegecko.com/assets/img/bitcone.png",
-=======
-      "https://raw.githubusercontent.com/VenomProtocol/assets/main/logos/venomswap-128x128.png",
->>>>>>> 627e7aae237dcb9889868356e814b8868c81db53
     keywords: ["conedex", "community"],
     tokens: [...polygon_mainnet, ...polygon_testnet]
       // sort them by symbol for easy readability
