@@ -1,0 +1,10 @@
+[
+  {
+    "chainId": 137,
+    "address": "0xbA777aE3a3C91fCD83EF85bfe65410592Bdd0f7c",
+    "symbol": "CONE",
+    "name": "BitCone",
+    "decimals": 18,
+    "logoURI": "https://conegecko.com/assets/img/bitcone.png"
+  }
+]

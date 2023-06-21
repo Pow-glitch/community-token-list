@@ -1,0 +1,33 @@
+{
+  "name": "ConeDEX Community",
+  "timestamp": "2023-06-21T10:30:52.013Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://conegecko.com/assets/img/bitcone.png",
+  "keywords": [
+    "conedex",
+    "community"
+  ],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xbA777aE3a3C91fCD83EF85bfe65410592Bdd0f7c",
+      "symbol": "CONE",
+      "name": "BitCone",
+      "decimals": 18,
+      "logoURI": "https://conegecko.com/assets/img/bitcone.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x80273525B1548EeA1f211f4218Cf30c1a7C86b25",
+      "symbol": "CONE",
+      "name": "BitCone",
+      "decimals": 18,
+      "logoURI": "https://conegecko.com/assets/img/bitcone.png"
+    }
+  ]
+}

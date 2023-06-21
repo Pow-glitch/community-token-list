@@ -1,22 +1,22 @@
 {
-  "name": "@venomswap/community-token-list",
-  "version": "2.6.0",
-  "description": "◦ The Venomswap default token list",
-  "main": "build/venomswap-community.tokenlist.json",
+  "name": "@conedex/community-token-list",
+  "version": "1.0.1",
+  "description": "◦ The conedex default token list",
+  "main": "build/conedex-community.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/venomswap-community.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/conedex-community.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/venomswap-community.tokenlist.json"
+    "build/conedex-community.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VenomProtocol/venomswap-community-token-list.git"
+    "url": ""
   },
   "keywords": [
-    "venomswap",
+    "conedex",
     "community",
     "token",
     "list"
@@ -24,9 +24,9 @@
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/VenomProtocol/venomswap-community-token-list/issues"
+    "url": "https://https://github.com/conedex/community-token-list/issues"
   },
-  "homepage": "https://github.com/VenomProtocol/venomswap-community-token-list#readme",
+  "homepage": "https://https://github.com/conedex/community-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
