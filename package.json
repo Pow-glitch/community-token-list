@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/conedex/community-token-list"
   },
   "keywords": [
     "conedex",
@@ -24,9 +24,9 @@
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/VenomProtocol/venomswap-community-token-list/issues"
+    "url": "https://github.com/conedex/community-token-list/issues"
   },
-  "homepage": "https://github.com/VenomProtocol/venomswap-community-token-list#readme",
+  "homepage": "https://github.com/conedex/community-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
