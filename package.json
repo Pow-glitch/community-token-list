@@ -1,7 +1,7 @@
 {
   "name": "@conedex/community-token-list",
-  "version": "1.0.3",
-  "description": "◦ The conedex default token list",
+  "version": "1.0.4",
+  "description": "The ConeDEX default token list",
   "main": "build/conedex-community.tokenlist.json",
   "scripts": {
     "test": "mocha",
