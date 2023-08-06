@@ -22,12 +22,28 @@
       "logoURI": "https://conegecko.com/assets/img/bitcone.png"
     },
     {
+      "chainId": 137,
+      "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+      "symbol": "SUSHI",
+      "name": "Sushi",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1606986688"
+    },
+    {
       "chainId": 80001,
       "address": "0x80273525B1548EeA1f211f4218Cf30c1a7C86b25",
       "symbol": "CONE",
       "name": "BitCone",
       "decimals": 18,
       "logoURI": "https://conegecko.com/assets/img/bitcone.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0xB911C192ed1d6428A12F2Cf8F636B00c34e68a2a",
+      "symbol": "tSUSHI",
+      "name": "Testnet Sushi",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1606986688"
     }
   ]
 }
